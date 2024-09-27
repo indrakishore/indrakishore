@@ -62,7 +62,7 @@
 
 <p align="center">
 <a href="https://indrakishore.github.io"><img alt="Website" src="https://img.shields.io/badge/Website-indrakishore.github.io-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.linkedin.com/in/indrakishore/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Indra%20Kishore-blue?style=flat-square&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/indra-kishore/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Indra%20Kishore-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.twitter.com/#"><img alt="Twitter" src="https://img.shields.io/badge/Twitter-indra5991-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.instagram.com/indra.kishore/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-indra.kishore-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:indra.mca19.du@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-indra.mca19.du@gmail.com-blue?style=flat-square&logo=gmail"></a>
@@ -73,7 +73,7 @@
 <p><a href="https://www.buymeacoffee.com/indrakishore"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40"  alt="indrakishore" /></a></p><br><br>
 
 
-[linkedin]: https://linkedin.com/in/indrakishore
+[linkedin]: https://www.linkedin.com/in/indra-kishore/
 [twitter]: https://twitter.com/#
 [Medium]: https://medium.com/@indra-mca19-du
 [website]: https://indra-kishore.onrender.com/
