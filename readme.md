@@ -44,10 +44,11 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![FireBase](https://img.shields.io/badge/-FireBase-333333?style=flat&logo=firebase)
-  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazonaws)
 
 - 🔧 &nbsp;
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+  ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
  
