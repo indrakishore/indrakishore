@@ -51,7 +51,8 @@
   ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-333333?style=flat&logo=intellijidea)
   ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=vscode)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
- 
+
+ [![An image of @indrakishore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/indrakishore)](https://holopin.io/@indrakishore)
   
 
 ### Github Status
