@@ -4,7 +4,7 @@
 <br>
 
 
-- 💻 Software Engineer at [Berkowits](https://berkowits.com/)
+- 💻 Software Engineer
 
 - 🌱 I’m currently learning **How to write clean code**
 
